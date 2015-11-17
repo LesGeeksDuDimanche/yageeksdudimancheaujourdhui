@@ -6,7 +6,7 @@ $(function() {
 	if (ladate > 0 ){
 		$("#message").html("T'es con");
 	} else {
-		$("#message").html("Evidemment");
+		$("#message").html("Ben évidemment");
 	}
 
     $("#message").fadeOut("slow",function(){
@@ -14,3 +14,5 @@ $(function() {
     });
 
 });
+
+
